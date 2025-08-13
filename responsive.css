@@ -1,0 +1,579 @@
+@media screen and (max-width: 1200px){
+ 
+  
+    .container{
+        
+        margin: 0 80px;
+        border-radius: 40px;
+} 
+.bg-info-heading h1{
+
+
+    font-size: 50px;
+    font-family: sans-serif;
+    padding-bottom: 9px;
+    font-weight: 600;
+}
+.table-f th {
+    font-size: 7px;
+    padding-left: 20px;
+}
+.table-f td {
+    color: #141d2299;
+    font-size: 8px;
+    padding-left: 20px;}
+
+.container-f{
+width: 90%;
+}
+.fa-brands {
+    background-color: darkgray;
+    padding: 3px;
+    border-radius: 30px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    transition: all 1s;
+    font-size: 6px;
+   
+
+}
+.footer {
+    background-color: #24262b;
+    padding: 20px 0;
+    line-height: 14px;
+}
+.footer-col a {
+    text-decoration: none;
+    font-size: 10px;
+}
+.footer-col h4 {
+    font-size: 9px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 19px;
+    font-weight: 400;
+    position: relative;
+}
+.footer-col {
+    width: 25%;
+   
+}
+.footer-col h4::before {
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    height: 1px;
+    background-color: #e91e63;
+    box-sizing: border-box;
+    width: 30px;
+}
+}
+
+
+
+@media screen and (max-width: 991px){
+  
+    
+        .bg-inform{
+            text-align: center;
+            background-color: transparent;
+            background-image: radial-gradient(#d1ccdd, #f7fbfe);
+            opacity: 4;
+            line-height: 0px;
+            padding: 0px 0;
+        }
+      
+            .bg-info-heading h1 {
+                font-size: 30px;
+                font-family: sans-serif;
+                padding-bottom: 5px;
+                font-weight: 600;
+            
+            }
+        .bg-info-heading p{
+            font-size: 12px;
+            font-family: sans-serif;
+            padding-bottom: 22px;
+        }
+        
+        .button-info a{
+            color: rgb(8, 8, 8);
+            font-size: 10px;
+            text-decoration: none;
+            background-color: #ffd936;
+           
+            padding: 5px;
+        }
+        .logo img {
+            width: 90px;
+            text-align: center;
+                   }
+            
+                   .navbar-nav-info {
+                    list-style-type: none;
+                    display: flex;
+                    font-family: "Poppins", sans-serif;
+                    font-size: 9px;        
+}
+.trade-table .text-trade {
+    text-align: center;
+    padding-top: 0px;
+
+}
+.table-index {
+    border-color: black;
+    list-style-type: none;
+    font-size: 9px;
+    font-weight: 600;
+}
+ .trade-table .table-index img {
+        width: 22%;
+}
+.heading-com h1{
+    font-size: 23px;
+}
+.com-img img {
+    width: 24%;
+    word-spacing: 5px;
+}
+.revenue-img img{
+    width: 100%;
+}
+.revenue-head p {
+    color: #424244;
+    font-family: sans-serif;
+    font-size: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 30px;
+}
+.revenue-head h1 {
+    font-weight: 700;
+    font-size: 22px;
+    color: rgb(79, 109, 209);
+    font-family: sans-serif;
+    display: inline;
+}
+.market-heading h1 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: black;
+}
+.design {
+    line-height: 35px;
+    padding-top: 35px;
+    text-align: center;
+}
+.design h2 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.buttons-desgin a {
+    background-color: #ffd936;
+    color: black;
+    font-family: sans-serif;
+    padding: 6px;
+    font-size: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    align-content: center;
+}
+.buttons-desgin-1 a {
+    background-color: #6c8595;
+    color: white;
+    padding: 6px;
+    font-size: 10px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    text-align: center;
+}
+.buttons-desgin-main {
+    display: flex;
+  
+}
+.table-logo img {
+    width: 6%;
+    height: 3%;
+}
+.table-logo h3 {
+    padding-top: 13px;
+    font-size: 14px;
+}
+.design p {
+    color: #edf0f299;
+    text-align: center;
+    font-size: 9px;
+    padding-left: 40px;
+   
+}
+.img-1 {
+    padding-top: 35px;
+    padding: 10px;
+    padding-left: 77px;
+}
+.img-section h5{
+  
+    font-size: 10px;
+}
+.img-section a {
+    padding-top: 5px;
+    font-family: sans-serif;
+    color: #424244;
+    font-size: 10px;
+    text-decoration: none;
+}
+.img-section img {
+    width: 200px;
+    border-radius: 10px;
+}
+.market-heading a {
+    text-align: center;
+    text-decoration: none;
+    color: #141d2299;
+    font-size: 11px;
+    font-family: sans-serif;
+}
+.market-heading p {
+    text-align: center;
+    font-size: 12px;
+    font-family: sans-serif;
+    color: #141d2299;
+}
+
+img, svg {
+    vertical-align: middle;
+    width: 10%;
+}
+.table-index tr td {
+    padding: 13px 54px;
+    border-bottom: 1px solid #070e201c;
+}
+.bg-color {
+    
+    padding-top: 80px;
+}
+.com-img {
+    text-align: center;
+    display: inline-block;
+    padding-top: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+.trade-table .text-trade h2 {
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 120px;
+}
+.text-trade p {
+    padding-bottom: 15px;
+    font-size: 9px;
+    font-family: sans-serif;
+}
+}
+
+
+
+@media screen and (max-width: 767px){
+    
+  
+    
+    .bg-inform{
+        text-align: center;
+        background-color: transparent;
+        background-image: radial-gradient(#d1ccdd, #f7fbfe);
+        opacity: 4;
+        line-height: 0px;
+        padding: 0px 0;
+    }
+    .table-index tr td {
+        padding: 0px 29px;
+        border-bottom: 1px solid #070e201c;
+    }
+        .bg-info-heading h1 {
+            font-size: 15px;
+            font-family: sans-serif;
+            padding-bottom: 2.5px;
+            font-weight: 600;
+        
+        }
+      
+.button-nav{
+    background-color: yellow;
+    border-radius: 0px;
+    padding: 7px;
+    font-family: sans-serif;
+    
+    }
+    .button-nav a{ 
+        color: black;
+        list-style-type: none;
+        text-decoration: none;
+    }
+    .bg-info-heading p{
+        font-size: 6px;
+        font-family: sans-serif;
+        padding-bottom: 11px;
+    }
+    
+    .button-info a{
+        color: rgb(8, 8, 8);
+        font-size: 5px;
+        text-decoration: none;
+        background-color: #ffd936;
+       
+        padding: 5px;
+    }
+    .logo img {
+        width: 45px;
+        text-align: center;
+               }
+        
+               .navbar-nav-info {
+                list-style-type: none;
+                display: flex;
+                font-family: "Poppins", sans-serif;
+                font-size: 4.5px;        
+}
+.trade-table .text-trade {
+text-align: center;
+padding-top: 0px;
+
+}
+.com-img img {
+    width: 50%;
+    word-spacing: 5px;
+}
+.table-index {
+border-color: black;
+list-style-type: none;
+font-size: 4.5px;
+font-weight: 600;
+}
+.trade-table .table-index img {
+    width: 11%;
+}
+.heading-com h1{
+font-size: 11.25px;
+}
+
+.revenue-img img{
+width: 50%;
+}
+.heading-com h1 {
+    text-align: center;
+    padding-top: 20px;}
+
+.revenue-head p {
+    padding-top: 11px;
+    color: #424244;
+    font-family: sans-serif;
+    padding-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 10px;
+    font-size: 4px;
+}
+ 
+
+*, ::after, ::before {
+    box-sizing: border-box;
+
+}
+.revenue-head h1 {
+font-weight: 700;
+font-size: 11px;
+color: rgb(79, 109, 209);
+font-family: sans-serif;
+display: inline;
+}
+.market-heading h1 {
+text-align: center;
+font-size: 13px;
+font-weight: 600;
+font-family: sans-serif;
+color: black;
+}
+.design {
+line-height: 19px;
+padding-top: 19px;
+text-align: center;
+}
+.design h2 {
+color: white;
+text-align: center;
+font-size: 10px;
+
+}
+
+
+.buttons-desgin-main {
+display: flex;
+padding: 2px;
+border-radius: 2px;
+font-size: 4px;
+}
+.table-logo img {
+width: 4%;
+height: 2%;
+}
+.table-logo h3 {
+padding-top: 6px;
+font-size: 7px;
+}
+.design p {
+color: #edf0f299;
+text-align: center;
+font-size: 4px;
+padding-left: 20px;
+
+}
+.buttons-desgin-1{
+    padding: 0px;
+    padding-top: 24px;
+}
+.buttons-desgin {
+    padding: 10px;
+    padding-top: 25px;
+   
+
+}
+ .buttons-desgin-1 a { 
+    background-color: rgb(108, 133, 149);
+    color: white;
+    
+   
+    font-family: sans-serif;
+    
+    text-decoration: none;
+    font-weight: 600;
+    text-align: center;
+} 
+.img-1 {
+padding-top: 16px;
+padding: 5px;
+padding-left: 40px;
+}
+.img-section h5{
+
+font-size: 5px;
+}
+.img-section a {
+padding-top: 3px;
+font-family: sans-serif;
+color: #424244;
+font-size: 5px;
+text-decoration: none;
+}
+.img-section img {
+width: 80px;
+border-radius: 5px;
+}
+.market-heading a {
+text-align: center;
+text-decoration: none;
+color: #141d2299;
+font-size: 6px;
+font-family: sans-serif;
+}
+.market-heading p {
+text-align: center;
+font-size: 6px;
+font-family: sans-serif;
+color: #141d2299;
+}
+
+img, svg {
+vertical-align: middle;
+width: 22%;
+}
+.table-index tr td {
+padding: 0px 9px;
+border-bottom: 1px solid #070e201c;
+}
+.revenue-head h6{
+    font-size: 5px;
+    padding-top: 20px;
+}
+
+
+
+.com-img {
+text-align: center;
+display: inline-block;
+padding-top: 5px;
+margin: 5px;
+display: inline-block;
+}
+.trade-table .text-trade h2 {
+font-family: sans-serif;
+font-weight: 600;
+font-size: 10px;
+padding-top: 60px;
+}
+.text-trade p {
+padding-bottom: 8px;
+font-size: 5px;
+font-family: sans-serif;
+}
+
+.table-f th {
+    font-size: 3px;
+    padding-left: 20px;
+       
+}
+
+.table-f td {
+    color: #141d2299;
+    font-size: 3px;
+    padding-left: 10px;}
+    .container-f .icons i {
+      font-size: 1px;
+       
+}
+.footer {
+    background-color: #24262b;
+    padding: 10px 0;
+    line-height: 6px;
+}
+.footer-col a {
+    text-decoration: none;
+    font-size: 4px;
+}
+.footer-col h4 {
+    font-size: 7px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    font-weight: 400;
+    position: relative;
+}
+.footer-col {
+    width: 25%;
+   
+}
+.footer-col h4::before {
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    height: 1px;
+    background-color: #e91e63;
+    box-sizing: border-box;
+    width: 20px;
+}
+.footer-col {
+    width: 60%;
+}
+
+    
+
+
+}
